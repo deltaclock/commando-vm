@@ -23,7 +23,6 @@
     "Microsoft.VisualStudio.Component.DiagnosticTools",
     "Microsoft.VisualStudio.Component.EntityFramework",
     "Microsoft.VisualStudio.Component.ManagedDesktop.Prerequisites",
-    "Microsoft.ComponentGroup.Blend",
     "Microsoft.VisualStudio.Component.Debugger.JustInTime",
     "Microsoft.VisualStudio.Workload.ManagedDesktop",
     "Microsoft.Net.Component.3.5.DeveloperTools"
